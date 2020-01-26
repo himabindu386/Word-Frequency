@@ -1,0 +1,18 @@
+Input:
+
+Princess Elsa of Arendelle possesses 
+magical powers that allow Elsa her to 
+control Elsa and create ice and Elsa snow,often Elsa.
+
+
+
+
+
+Output:
+
+enter the file name:
+C:\sample.txt
+occurance of words like this:
+Elsa
+Elsa,5
+total no. of words :42
